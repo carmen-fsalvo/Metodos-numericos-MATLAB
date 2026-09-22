@@ -1,0 +1,4 @@
+clear all
+close all
+clc
+% TEMA 3. PG 9. EJ 1: CALCULO DEL POTENCIAL EN COORD ESFÉRICAS.
